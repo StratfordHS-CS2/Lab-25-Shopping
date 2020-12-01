@@ -23,6 +23,8 @@ available to the whole program, not create a new variable just for
 this function.
 '''
 def add_to_cart(item):
+  global cart
+  global total
   pass
 
 
