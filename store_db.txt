@@ -1,0 +1,166 @@
+Apple,3.99
+Banana,2.47
+Blackberry,8.79
+Blueberry,1.29
+Cocunut,4.99
+Cranberry,2.49
+Grapes,4.78
+Grapefruit,3.99
+Kiwi,2.47
+Lemon,8.79
+Lime,1.29
+Mango,4.99
+Watermelon,2.49
+Cantaloupe,4.78
+Olive,3.99
+Clementine,2.47
+Mandrine,8.79
+Peach,1.29
+Pear,4.99
+Plum,2.49
+Pineapple,4.78
+Pumpkin,3.99
+Pomegranate,2.47
+Raspberry,8.79
+Strawberry,1.29
+Tomato,4.99
+Beet,2.49
+Brussels sprout,4.78
+Cabbage,3.99
+Broccoli,2.47
+Corn,8.79
+Lettuce,1.29
+Carrots,4.99
+Kale,2.49
+Potatoes,4.78
+Avocado,3.99
+Turkey,2.47
+Ham,8.79
+Roast Beef,1.29
+Pork,4.99
+Steak,2.49
+Lean Pork,4.78
+Lean Steak,3.99
+Chicken,2.47
+Chicken Breasts,8.79
+Chicken Thighs,1.29
+Bison,4.99
+Sirloin Steak,2.49
+Sirloin Burger,4.78
+Salmon,3.99
+Cod,2.47
+Trout,8.79
+Shrimp,1.29
+Frozen Shrimp,4.99
+Cold Cut Turkey,2.49
+Cold Cut Ham,4.78
+Cold Cut Chicken,3.99
+Cold Cut Roast Beef,2.47
+Canned Tuna,8.79
+Canned Salmon,1.29
+Canned Chicken,4.99
+Canned White Beans,2.49
+Canned Kidney Beans,4.78
+Canned Black Beans,3.99
+Canned Pinto Beans,2.47
+Canned Red Beans,8.79
+Canned Navy Beans,1.29
+Canned Tomatoes,4.99
+Canned Artichokes,2.49
+Salsa,4.78
+Chicken Broth,3.99
+Peanut Butter,2.47
+Raspberry Jam,8.79
+Strawberry Jam,1.29
+Blueberry Jam,4.99
+Blackberry Jam,2.49
+Dill Pickles,4.78
+Sardines,3.99
+Anchovies,2.47
+Olives,8.79
+Eggs,1.29
+Yogurt,4.99
+Greek Yogurt,2.49
+2% Milk,4.78
+1% Milk,3.99
+Whole Milk,2.47
+Almond Milk,8.79
+Soy Milk,1.29
+Butter,4.99
+Mozzarella Cheese,2.49
+Chedder Cheese,4.78
+Parmesan Cheese,3.99
+Feta Cheese,2.47
+Ricotta Cheese,8.79
+String Cheese,1.29
+Hummus,4.99
+Oats,2.49
+Oatmeal,4.78
+White Rice,3.99
+Brown Rice,2.47
+Captain Crunch Cereal,8.79
+Lucky Charms Cereal,1.29
+Honey Nut Cheerios,4.99
+Cinnamon Toast Crunch Cereal,2.49
+Reese's Puffs Cereal,4.78
+Mini Wheats Cereal,3.99
+Corn Flakes Cereal,2.47
+Apple Jacks Cereal,8.79
+Raisin Bran Cereal,1.29
+Honey Bunches of Oats Cereal,4.99
+Froot Loops Cereal,2.49
+Cheerios,4.78
+Pasta,3.99
+Bread,2.47
+Buns,8.79
+Pitas,1.29
+English Muffins,4.99
+Begals,2.49
+Flour,4.78
+Tortillas,3.99
+Crackers,2.47
+Waffles,8.79
+Pancake Mix,1.29
+Whole Wheat Pasta,4.99
+Whole Wheat Bread,2.49
+Whole Wheat Buns,4.78
+Whole Wheat Pitas,3.99
+Whole Wheat English Muffins,2.47
+Whole Wheat Begals,8.79
+Whole Wheat Flour,1.29
+Whole Wheat Tortillas,4.99
+Whole Wheat Crackers,2.49
+Whole Wheat Waffles,4.78
+Whole Wheat Pancake Mix,3.99
+Ground Beef,2.47
+Mustard,8.79
+Olive Oil,1.29
+Canola Oil,4.99
+Flaxseed Oil,2.49
+Mayo,4.78
+Ginger,3.99
+Cinnamon,2.47
+Nutmeg,8.79
+Clove,1.29
+Sugar,4.99
+Honey,2.49
+Chili Pepper,4.78
+Curry,3.99
+Hot Sauce,2.47
+Vinegar,8.79
+Sea Salt,1.29
+Soy Sauce,4.99
+Garlic,2.49
+Almonds,4.78
+Walnuts,3.99
+Brazil Nuts,2.47
+Hazelnuts,8.79
+Pistachios,1.29
+Sunflower Seeds,4.99
+Popcorn,2.49
+Popcorn Seeds,4.78
+Ice Cream,3.99
+Tea,2.47
+Coffee,8.79
+Orange Juice,1.29
+Apple Juice,4.99
